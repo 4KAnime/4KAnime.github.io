@@ -8,7 +8,7 @@
     <meta name="keywords" content="Anime, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>4KAnime</title>
+    <title>VE-05</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -85,7 +85,7 @@
                         <a href="./index.html"><i class="fa fa-home"></i> Home</a>
                         <a href="./categories.html">Categories</a>
                         <a href="#">Drama</a>
-                        <span>Violet Evergarden - EP1</span>
+                        <span>Violet Evergarden - EP5</span>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
                 <div class="col-lg-12">
                     <div class="anime__video__player">
                         <video id="player" playsinline controls data-poster="./Pre-Watch/VioletEvergarden.jpg">
-                            <source src="https://www.dropbox.com/s/vbp5uju6vd3gxju/VE-01.mkv?raw=1" type="video/mp4" />
+                            <source src="https://www.dropbox.com/s/jjadmw5q6fum7rq/%5BWitanime.com%5D%20VE-03.mp4?raw=1" type="video/mp4" />
                             <!-- Captions are optional -->
                             <track kind="captions" label="English captions" src="#" srclang="en" default />
                         </video>
