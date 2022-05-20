@@ -134,8 +134,9 @@
   <script src="https://vjs.zencdn.net/7.17.0/video.min.js"></script>
                     </div>
                     <div class="anime__details__episodes">
-                        <div class="section-title">
-                            <h5>List Name</h5>
+                        <div class="section-title"></div>
+                        <h5>Current Episode: 1</h5>
+                            <h5>Episodes List</h5>
                         </div>
                         <a href="VE-1">Ep 01</a>
                         <a href="VE-2">Ep 02</a>
